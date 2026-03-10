@@ -1,0 +1,8 @@
+{
+  "name": "ocas-relay",
+  "version": "1.0.0",
+  "description": "Device gateway for Relay.app clients. Ingests device telemetry, messages, and attachments. Normalizes device context for other skills. Manages explicit device permissions with audit trails. Trigger phrases: 'what is the device context', 'request camera permission', 'show device status'. Private skill \u2014 do not distribute.",
+  "author": "Indigo Karasu",
+  "email": "mx.indigo.karasu@gmail.com",
+  "skill_type": "system"
+}
